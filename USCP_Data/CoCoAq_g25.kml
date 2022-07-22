@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CCAq_25" id="CCAq_25">
+	<SimpleField name="X99.9" type="float"></SimpleField>
+</Schema>
+<Folder><name>CCAq_25</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CCAq_25">
+		<SimpleData name="X99.9">99.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-110.1949,35.0128 -110.2181,35.0697 -110.2181,35.1076 -110.1718,35.1455 -110.1023,35.1645 -109.9864,35.1645 -109.8242,35.0886 -109.7547,35.0507 -109.6852,34.9939 -109.662,34.9749 -109.523,34.8612 -109.4535,34.8233 -109.384,34.7474 -109.384,34.6716 -109.4303,34.6527 -109.523,34.6527 -109.5693,34.6716 -109.662,34.7095 -109.6852,34.7285 -109.7779,34.7853 -109.8706,34.8422 -109.8937,34.8612 -109.9864,34.918 -110.0791,34.9559 -110.1254,34.9749 -110.1949,35.0128</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
