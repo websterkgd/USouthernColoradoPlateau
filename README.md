@@ -14,8 +14,13 @@ An analysis of Uranium in unregulated water sources from the southern Colorado P
  	* CoCoAqSurface.KML - A KML file of the southern surface portion of the Coconino-De Chelly aquifer  
   	* CoconinoDeChellyTDS_Cropped.JPEG - A cropped figure of the TDS in the Coconino-DeChelly aquifer from Robson and Banta 1995
   	* CoconinoDeChellyTDS.JPEG - A figure of the TDS in the Coconino-DeChelly aquifer from Robson and Banta 1995
-	*F1_PanelAwoMarkings - Satellite imagery for panel 1A
-	*F1_PanelBwoMarkings - Satellite imagery for panel 1B and 3
+	*F1_PanelAwoMarkings.JPG - Satellite imagery for panel 1A
+	*F1_PanelBwoMarkings.JPG - Satellite imagery for figures 1B and 3
+	*Mspat.KML - KML file of mines in the study region
+	*Mspatelev.txt - a txt file of mines in the region with elevation data
+	*Ucaus.csv - a csv file of data extracted from various sources
+	*Uspat.KML - a KML file of water source locations in this study
+	*UWellList.csv - a csv file of water sources in the study area
   
 * **USCP_Rcode:** - Analytical and figure generating code
 	* CreateCoconino_20211017.r - Creates a kml file of the southern surface portion of the Coconino-De Chelly aquifer
