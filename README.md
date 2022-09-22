@@ -16,13 +16,18 @@ An analysis of Uranium in unregulated water sources from the southern Colorado P
   	* CoconinoDeChellyTDS.JPEG - A figure of the TDS in the Coconino-DeChelly aquifer from Robson and Banta 1995
 	* F1_PanelAwoMarkings.JPG - Satellite imagery for panel 1A
 	* F1_PanelBwoMarkings.JPG - Satellite imagery for figures 1B and 3
+	* MinesWApU.csv - csv file of the apparent uranium concentration at mines
 	* Mspat.KML - KML file of mines in the study region
 	* Mspatelev.txt - a txt file of mines in the region with elevation data
 	* Ucaus.csv - a csv file of data extracted from various sources
 	* Uspat.KML - a KML file of water source locations in this study
 	* UWellList.csv - a csv file of water sources in the study area
+	* WatersWApU.csv - csv file of the apparent uranium concentration at water sources
   
 * **USCP_Rcode:** - Analytical and figure generating code
+	* AppUMap_20220908.r - Interpolation of apparent U at mines and water sources
+	* AppUExWater_20220908.r - Analyses of apparent U at water soucres in the study region
+	* AppUMinesRegion_20220808.r - Analyses of apparent U at mining features in the study region
 	* CreateCoconino_20211017.r - Creates a kml file of the southern surface portion of the Coconino-De Chelly aquifer
 	* CreateCoconinoTDS_0-1k_20211022.r - Creates a kml file of the portion of the Coconino-De Chelly aquifer with 0 - 1k mg/L TDS
 	* CreateCoconinoTDS_1-3k_20211022.r - Creates a kml file of the portion of the Coconino-De Chelly aquifer with 1 - 3k mg/L TDS
