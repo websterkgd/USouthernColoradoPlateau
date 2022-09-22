@@ -34,7 +34,7 @@ An analysis of Uranium in unregulated water sources from the southern Colorado P
 	* Figure3_20220707.r - Creates Figure 3
 	* Ucausal_20220712.r - Analysis of points within and outside of the Chinle Fm. Also generates Figure 6
 	* UMultiRegression.r - Multiregression analysis of U in waters of the Colorado Plateau. Also generates Figures 4 and 5
-	* UvsCoconino_20220707.r - Analysis of U concentration vs varying regions of the Coconino-De Chelly aquifer
+	* UvsCoconino_20220718.r - Analysis of U concentration vs varying regions of the Coconino-De Chelly aquifer
 	* UvsMines_20220707.r - Analysis of U concentration vs the presence of mines upstream
 	* WaterUvsChinle_20220707.r - Analysis of U concentration vs the presence of the Chinle Formation
 	* WaterUvsMorrison_20220707.r - Analysis of U concentration vs the presence of the Morrison Formation
